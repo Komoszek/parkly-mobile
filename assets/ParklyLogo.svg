@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="72.669197mm"
+   height="90.413338mm"
+   viewBox="0 0 72.669197 90.413338"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="ParklyLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.85073063"
+     inkscape:cx="-265.65401"
+     inkscape:cy="131.06381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4119" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.005785,-86.645655)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#007c00;stroke-width:15.8608;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:2.6;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 105.34916,171.06327 C -3.5378572,76.797475 179.98465,69.960155 110.68231,149.13715"
+       id="path368"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#007c00;fill-opacity:1;stroke:none;stroke-width:0.634485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.725609,137.46804 c -22.24339,-21.23764 -6.604916,-27.66991 2.572111,-25.96653 17.23307,3.72355 3.99488,18.1979 -2.572111,25.96653 z"
+       id="path7944"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
